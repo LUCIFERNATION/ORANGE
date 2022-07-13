@@ -1,0 +1,9 @@
+pip install -U scikit-learn
+pip install matplotlib
+pip install keras
+pip install tf-nightly
+pip install streamlit
+pip install imblearn
+pip install seaborn
+pip install pandas
+pip install sqlite3
