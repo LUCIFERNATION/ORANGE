@@ -1,6 +1,6 @@
 # ORANGE Customer Attrition APP
 Orange Churn Prediction Application
-## ORANGE Telcom Customer Churn Prediction - Streamlit Web Application
+## ORANGE Telecom Customer Churn Prediction - Streamlit Web Application
 ### Description
 This streamlit application allows you to predict telco customer churn using machine learning algorithms (XGBoost, CatBoost) & we can switch to the MLP Classifier using the underlying neural networks. Developed with Python and all codes published on GitHub. Feel free to review and download the repository. You can:
 - predict customer churn
